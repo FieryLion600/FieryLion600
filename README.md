@@ -1,4 +1,5 @@
 <h1 align="center">I may not be the brightest, but I know how to fix things.</h1>
+<h3 align="center">Backend Dev but I like pretty, shiny things.</h3>
 <h3 align="center">I use:</h3>
 <p align="center">
 <strong>.NET</strong> • <strong>JavaScript</strong> • <strong>MS SQL</strong> • <strong>Angular</strong> • <strong>Docker</strong>
